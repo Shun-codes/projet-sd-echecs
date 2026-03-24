@@ -1,5 +1,5 @@
 # Ignorer le dataset (trop lourd)
-dataset.csv
+*.csv
 
 # Fichiers temporaires Python
 __pycache__/
