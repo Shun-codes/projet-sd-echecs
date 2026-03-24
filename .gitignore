@@ -1,0 +1,18 @@
+# Ignorer le dataset (trop lourd)
+dataset.csv
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers Jupyter
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Environnement virtuel (si utilisé)
+venv/
+.env/
