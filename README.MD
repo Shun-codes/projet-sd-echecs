@@ -14,6 +14,12 @@ Le projet doit contenir les fichiers suivants :
 1. **Téléchargement des fichiers** :
    - Assurez-vous d'avoir téléchargé les fichiers `Final_Analyse_python_BUT_2_A.ipynb` et `LS-2020-DONNEES.csv` dans le même répertoire sur votre machine.
    - Vous pouvez télécharger le CSV depuis Kaggle : https://www.kaggle.com/datasets/noobiedatascientist/lichess-september-2020-data/data?select=Sept_20_analysis.csv
+   - Juste après le téléchargement, renommez le fichier CSV en `LS-2020-DONNEES.csv`.
+   - Commande PowerShell (dans le dossier du projet) :
+
+```powershell
+Rename-Item .\Sept_20_analysis.csv LS-2020-DONNEES.csv
+```
 
 2. **Installation des dépendances** :
    - Assurez-vous d'avoir Python 3.x installé sur votre machine.
