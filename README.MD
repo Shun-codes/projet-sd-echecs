@@ -21,6 +21,12 @@ Le projet doit contenir les fichiers suivants :
 Rename-Item .\Sept_20_analysis.csv LS-2020-DONNEES.csv
 ```
 
+   - Commande Linux/macOS (dans le dossier du projet) :
+
+```bash
+mv Sept_20_analysis.csv LS-2020-DONNEES.csv
+```
+
 2. **Installation des dépendances** :
    - Assurez-vous d'avoir Python 3.x installé sur votre machine.
    - Ouvrez un terminal dans le dossier du projet puis installez les bibliothèques nécessaires :
